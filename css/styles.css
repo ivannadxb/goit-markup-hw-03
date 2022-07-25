@@ -171,6 +171,7 @@ body {
 
 .header-list {
   display: flex;
+  gap: 40px;
 }
 
 .header-item {
