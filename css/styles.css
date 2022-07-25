@@ -165,6 +165,10 @@ body {
   margin-right: 71;
 }
 
+.header-nav {
+  margin-right: auto;
+}
+
 .header-list {
   display: flex;
 }
