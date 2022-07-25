@@ -214,6 +214,10 @@ body {
   color: var(--sec-txt-cl);
 }
 
+.header-phone {
+  margin-right: 40px;
+}
+
 /*hero section*/
 .hero {
   background-color: var(--darc-bg-color);
