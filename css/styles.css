@@ -161,6 +161,10 @@ body {
   display: flex;
 }
 
+.header-list {
+  display: flex;
+}
+
 .logo-link {
   font-family: 'Raleway', sans-serif;
   font-style: normal;
