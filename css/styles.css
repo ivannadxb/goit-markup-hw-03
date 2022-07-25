@@ -161,6 +161,10 @@ body {
   display: flex;
 }
 
+.logo {
+  margin-right: 71;
+}
+
 .header-list {
   display: flex;
 }
