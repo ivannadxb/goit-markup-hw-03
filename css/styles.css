@@ -155,6 +155,7 @@ body {
   font-weight: 700;
   font-size: 26px;
   line-height: calc(31 / 26);
+  display: flex;
 }
 
 .header {
@@ -163,7 +164,7 @@ body {
 
 .header-container {
   display: flex;
-  align-content: center;
+  align-items: center;
 }
 
 .logo {
@@ -172,6 +173,7 @@ body {
 
 .header-nav {
   margin-right: auto;
+  display: flex;
 }
 
 .header-list {
