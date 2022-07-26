@@ -291,7 +291,10 @@ body {
   color: #212121;
 }
 
-.about-container,
+.about-container{
+  display: flex;
+}
+
 .about-list,
 .team-item {
   display: flex;
