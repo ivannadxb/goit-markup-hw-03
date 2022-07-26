@@ -159,6 +159,7 @@ body {
 
 .header-container {
   display: flex;
+  align-content: center;
 }
 
 .logo {
