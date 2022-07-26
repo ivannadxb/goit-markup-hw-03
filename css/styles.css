@@ -198,6 +198,8 @@ body {
 
 .header-phone,
 .header-email {
+  padding-top: 52px;
+  padding-bottom: 52px;
   font-weight: 500;
   font-size: 14px;
   line-height: calc(16 / 14);
@@ -206,6 +208,8 @@ body {
 }
 
 .header-link {
+  padding-top: 52px;
+  padding-bottom: 52px;
   font-weight: 500;
   font-size: 14px;
   line-height: calc(16 / 14);
