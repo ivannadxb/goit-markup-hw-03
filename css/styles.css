@@ -291,6 +291,10 @@ body {
   color: #212121;
 }
 
+.about-list{
+  display: flex;
+}
+
 .team-title {
   font-family: 'Roboto';
   font-style: normal;
