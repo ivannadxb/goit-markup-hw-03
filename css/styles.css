@@ -291,6 +291,7 @@ body {
   color: #212121;
 }
 
+.about-container,
 .about-list,
 .team-item {
   display: flex;
