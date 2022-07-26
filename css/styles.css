@@ -292,6 +292,10 @@ body {
   color: #212121;
 }
 
+.about-middle-side {
+  display: flex;
+}
+
 .about-container{
   display: flex;
 }
