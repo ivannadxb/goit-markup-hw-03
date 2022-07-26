@@ -264,7 +264,7 @@ body {
   line-height: calc(16 / 14);
   letter-spacing: 0.03em;
   color: #212121;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .section-it {
@@ -274,7 +274,7 @@ body {
   font-size: 14px;
   line-height: calc(24 / 14);
   letter-spacing: 0.03em;
-  color: #757575;
+  color: #2f303a;
 }
 
 .about-title {
