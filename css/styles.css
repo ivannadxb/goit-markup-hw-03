@@ -295,7 +295,10 @@ body {
   display: flex;
 }
 
-.about-list,
+.about-list {
+  display: flex;
+}
+
 .team-item {
   display: flex;
 }
