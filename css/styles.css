@@ -237,6 +237,15 @@ body {
   margin-right: 40px;
 }
 
+.filter-list{
+  display: flex;
+}
+
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 /*hero section*/
 .hero {
   background-color: var(--darc-bg-color);
