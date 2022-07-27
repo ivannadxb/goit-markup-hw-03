@@ -195,6 +195,8 @@ flex-basis: 500px;
 .logo-link {
   font-family: 'Raleway', sans-serif;
   font-style: normal;
+  padding-top: 94px;
+  padding-bottom: 94;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -408,6 +410,8 @@ flex-basis: 500px;
 .logo-link {
   font-family: 'Raleway', sans-serif;
   font-style: normal;
+  padding-top: 94px;
+  padding-bottom: 94;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
