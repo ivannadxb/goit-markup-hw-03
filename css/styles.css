@@ -101,10 +101,10 @@ body {
 .btn,
 .header-btnone,
 .portfolio-btn {
-  max-width: 250px;
-  min-width: 200px;
-  min-height: 50px;
-  padding: 11px; 19px;
+  max-width: 73px;
+  min-width: 29px;
+  min-height: 38px;
+  padding: 11px;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
@@ -166,8 +166,9 @@ body {
   align-items: center;
 }
 
-,.about-middle-side {
-flex-basis: 500px;
+,
+.about-middle-side {
+  flex-basis: 500px;
 }
 
 .logo {
@@ -240,14 +241,14 @@ flex-basis: 500px;
   color: var(--sec-txt-cl);
 }
 .header-link-current {
-  color:  var(--accent-txt-cl);
+  color: var(--accent-txt-cl);
 }
 
 .header-phone {
   margin-right: 40px;
 }
 
-.filter-list{
+.filter-list {
   display: flex;
 }
 
@@ -257,7 +258,7 @@ flex-basis: 500px;
   gap: 30px;
 }
 
-.section-list{
+.section-list {
   display: flex;
   gap: 30px;
 }
@@ -321,7 +322,7 @@ flex-basis: 500px;
   display: flex;
 }
 
-.about-container{
+.about-container {
   display: flex;
 }
 
@@ -389,7 +390,7 @@ flex-basis: 500px;
   color: #757575;
 }
 
-.projects-list{
+.projects-list {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
