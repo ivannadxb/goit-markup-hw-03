@@ -290,6 +290,8 @@ body {
   background-color: var(--light-gray-backg--);
 }
 .section-item {
+  margin-top: 94px;
+  margin-bottom: 10px;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
