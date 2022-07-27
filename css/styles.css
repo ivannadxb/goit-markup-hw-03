@@ -178,6 +178,7 @@ body {
 
 .header-list {
   display: flex;
+  align-items: center;
 }
 
 .header-item {
