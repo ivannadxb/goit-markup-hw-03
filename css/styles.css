@@ -224,6 +224,8 @@ flex-basis: 500px;
 .header-link {
   padding-top: 94px;
   padding-bottom: 94px;
+  padding-left: 15px;
+  padding-right: 15px;
   font-weight: 500;
   font-size: 14px;
   line-height: calc(16 / 14);
