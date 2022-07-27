@@ -286,8 +286,6 @@ body {
   background-color: var(--light-gray-backg--);
 }
 .section-item {
-  padding-top: 94px;
-  padding-bottom: 94px;
   margin-top: 10px;
   margin-bottom: 10px;
   font-family: 'Roboto';
@@ -328,6 +326,8 @@ body {
 }
 
 .about-middle-side {
+  padding-top: 94px;
+  padding-bottom: 94px;
   display: flex;
 }
 
