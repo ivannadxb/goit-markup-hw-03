@@ -286,7 +286,9 @@ body {
   background-color: var(--light-gray-backg--);
 }
 .section-item {
-  margin-top: 94px;
+  padding-top: 94px;
+  padding-bottom: 94px;
+  margin-top: 10px;
   margin-bottom: 10px;
   font-family: 'Roboto';
   font-style: normal;
@@ -299,6 +301,8 @@ body {
 }
 
 .section-it {
+  padding-top: 94px;
+  padding-bottom: 94px;
   margin-top: 10px;
   margin-bottom: 94px;
   font-family: 'Roboto';
@@ -311,8 +315,8 @@ body {
 }
 
 .about-title {
-  margin-top: 94px;
-  margin-bottom: 50px;
+  padding-top: 94px;
+  padding-bottom: 94px;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
