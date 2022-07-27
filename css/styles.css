@@ -382,6 +382,12 @@ flex-basis: 500px;
   color: #757575;
 }
 
+.projects-list{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
 /*footer */
 .footer {
   background-color: var(--darc-bg-color);
