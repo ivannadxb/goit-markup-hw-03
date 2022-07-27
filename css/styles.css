@@ -317,6 +317,7 @@ body {
 
 .about-list {
   display: flex;
+  gap: 30px;
 }
 
 .team-list {
