@@ -101,10 +101,6 @@ body {
 .btn,
 .header-btnone,
 .portfolio-btn {
-  max-width: 250px;
-  min-width: 200px;
-  min-height: 50px;
-  padding: 11px;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
