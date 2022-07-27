@@ -247,6 +247,11 @@ body {
   flex-wrap: wrap;
 }
 
+.section-list{
+  display: flex;
+  gap: 30px;
+}
+
 /*hero section*/
 .hero {
   background-color: var(--darc-bg-color);
