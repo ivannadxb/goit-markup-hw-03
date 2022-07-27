@@ -167,6 +167,10 @@ body {
   align-items: center;
 }
 
+,.about-middle-side {
+flex-basis: 500px;
+}
+
 .logo {
   margin-right: 71;
 }
