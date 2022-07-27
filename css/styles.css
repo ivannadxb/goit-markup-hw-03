@@ -245,6 +245,7 @@ body {
 .projects {
   display: flex;
   flex-wrap: wrap;
+  gap: 30px;
 }
 
 .section-list{
@@ -322,6 +323,7 @@ body {
 
 .team-list {
   display: flex;
+  gap: 30px;
 }
 
 .team-title {
