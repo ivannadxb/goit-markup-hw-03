@@ -258,6 +258,8 @@ body {
 }
 
 .section-list {
+  padding-top: 94px;
+  padding-bottom: 94px;
   display: flex;
   gap: 30px;
 }
@@ -326,8 +328,6 @@ body {
 }
 
 .about-middle-side {
-  padding-top: 94px;
-  padding-bottom: 94px;
   display: flex;
 }
 
