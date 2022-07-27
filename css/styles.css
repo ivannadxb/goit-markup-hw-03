@@ -246,7 +246,7 @@ flex-basis: 500px;
   display: flex;
 }
 
-.projects {
+.projects-list {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
