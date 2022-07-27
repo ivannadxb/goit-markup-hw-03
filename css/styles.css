@@ -240,7 +240,7 @@ flex-basis: 500px;
   color: var(--sec-txt-cl);
 }
 .header-link-current {
-  color: var(--sec-txt-cl);
+  color:  var(--accent-txt-cl);
 }
 
 .header-phone {
