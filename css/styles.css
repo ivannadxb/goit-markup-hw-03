@@ -330,6 +330,10 @@ body {
   display: flex;
   gap: 30px;
 }
+.team {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
 
 .team-list {
   display: flex;
