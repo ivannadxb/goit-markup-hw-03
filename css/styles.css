@@ -242,6 +242,9 @@ body {
 .filter-list {
   display: flex;
   justify-content: space-evenly;
+  max-width: 250px;
+  min-width: 200px;
+  min-height: 50px;
 }
 
 .projects-list {
