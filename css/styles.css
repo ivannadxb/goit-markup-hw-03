@@ -241,6 +241,7 @@ body {
 
 .filter-list {
   display: flex;
+  justify-content: space-around;
 }
 
 .projects-list {
