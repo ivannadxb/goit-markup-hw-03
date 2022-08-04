@@ -255,6 +255,7 @@ body {
 
 /*hero section*/
 .hero {
+  text-align: center;
   padding-top: 200px;
   padding-right: 200px;
 }
