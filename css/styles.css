@@ -296,6 +296,10 @@ body {
   text-transform: none;
 }
 
+.section-portfolio {
+  text-align: center;
+}
+
 .section-it {
   margin-top: 10px;
   margin-bottom: 94px;
