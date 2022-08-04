@@ -273,6 +273,10 @@ body {
   color: var(--accent-txt-cl);
 }
 
+.hero-container {
+  background-color: var(--darc-bg-color);
+}
+
 /*main section*/
 
 .header {
